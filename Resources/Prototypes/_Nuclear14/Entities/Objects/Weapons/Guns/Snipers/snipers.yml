@@ -1,3 +1,4 @@
+# Most of these should be able to use a scope to make their balance reasonable. Bolt actions are currently next to useless as they lack what you need in actual combat.
 - type: entity
   name: hunting rifle
   parent: BaseWeaponSniper
@@ -30,7 +31,7 @@
 - type: entity
   name: Anti-Materiel rifle
   parent: BaseWeaponRifle
-  id: N14WeaponAntiMateriel
+  id: N14WeaponAntiMateriel # Needs a buff to its ammo % armor piercing or something
   description: A anti materiel rifle with a ergonomic, metallic skeleton design. only seeing at it you can tell it will rip some limbs apart. Uses .50 anti-material ammo.
   components:
   - type: Clothing
