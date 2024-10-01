@@ -5,7 +5,7 @@
   description: job-description-ncr-ranger
   playTimeTracker: NCRRanger
   requirements:
-    - !type:CharacterDepartmentTimeRequirement
+    - !type:DepartmentTimeRequirement
       department: NCR
       min: 36000 # 10 hours as NCR
     - !type:CharacterWhitelistRequirement

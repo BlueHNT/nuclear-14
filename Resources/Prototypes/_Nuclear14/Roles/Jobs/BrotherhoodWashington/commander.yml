@@ -5,7 +5,7 @@
   description: job-description-bos-washington-commander
   playTimeTracker: BoSWashingtonCommander
   requirements:
-    - !type:CharacterDepartmentTimeRequirement
+    - !type:DepartmentTimeRequirement
       department: BrotherhoodWashington
       min: 36000 # 10 hours
   weight: 10

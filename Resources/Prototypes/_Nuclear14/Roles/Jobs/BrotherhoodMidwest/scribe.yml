@@ -5,7 +5,7 @@
   description: job-description-bos-mid-scribe
   playTimeTracker: BoSMidScribe
   requirements:
-    - !type:CharacterDepartmentTimeRequirement
+    - !type:DepartmentTimeRequirement
       department: BrotherhoodMidwest
       min: 3600 # 1 hour
   startingGear: BoSMidScribeGear

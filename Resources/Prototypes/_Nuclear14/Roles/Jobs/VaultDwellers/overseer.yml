@@ -3,7 +3,7 @@
   name: job-name-overseer
   description: job-description-overseer
   requirements:
-    - !type:CharacterDepartmentTimeRequirement
+    - !type:DepartmentTimeRequirement
       department: Vault
       min: 36000 # 10 hours
   playTimeTracker: Overseer

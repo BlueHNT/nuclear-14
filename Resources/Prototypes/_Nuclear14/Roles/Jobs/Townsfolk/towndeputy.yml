@@ -5,7 +5,7 @@
   description: job-description-towndeputy
   playTimeTracker: TownDeputy
   requirements:
-    - !type:CharacterDepartmentTimeRequirement
+    - !type:DepartmentTimeRequirement
       department: Townsfolk
       min: 3600 # 1 hours
   startingGear: TownDeputyGear

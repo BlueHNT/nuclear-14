@@ -5,7 +5,7 @@
   description: job-description-ncr-mp
   playTimeTracker: NCRMP
   requirements:
-    - !type:CharacterDepartmentTimeRequirement
+    - !type:DepartmentTimeRequirement
       department: NCR
       min: 14400 # 4 hours
   startingGear: NCRMPGear

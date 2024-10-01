@@ -5,7 +5,7 @@
   description: job-description-ncr-doctor
   playTimeTracker: NCRDoctor
   requirements:
-    - !type:CharacterDepartmentTimeRequirement
+    - !type:DepartmentTimeRequirement
       department: NCR
       min: 3600 # 1 hour
   startingGear: NCRDoctorGear
